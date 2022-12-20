@@ -3588,6 +3588,7 @@ if (__DEV__) {
     ): void {
       // change 1.
       // change 2.
+      // change 3.
       currentHookNameInDev = 'useLayoutEffect';
       warnInvalidHookAccess();
       mountHookTypesDev();
