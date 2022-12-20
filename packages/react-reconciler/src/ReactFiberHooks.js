@@ -3587,6 +3587,7 @@ if (__DEV__) {
       deps: Array<mixed> | void | null,
     ): void {
       // change 1.
+      // change 2.
       currentHookNameInDev = 'useLayoutEffect';
       warnInvalidHookAccess();
       mountHookTypesDev();
